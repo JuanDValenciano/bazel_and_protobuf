@@ -32,6 +32,7 @@
 Thumbs.db
 
 # Executables
+*.bin
 *.exe
 *.out
 *.app
