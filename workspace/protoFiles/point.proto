@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-package my_protos.point;
-
-message Point {
-  optional int32 x = 1;
-  optional int32 y = 2;
-}
